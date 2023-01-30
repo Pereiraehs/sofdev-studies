@@ -1,2 +1,2 @@
-# sofdev-studies
+# Sofdev-studies
 Exercises about Git, SQL n Python
