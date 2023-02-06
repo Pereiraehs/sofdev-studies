@@ -1,2 +1,2 @@
-FROM betrybe/docker-compose-example-frontend:v1
+FROM 
 ENTRYPOINT ["npm", "start"]
